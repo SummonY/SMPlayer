@@ -1,2 +1,2 @@
 # SMPlayer
-A multi-media player programming in Qt4.
+A multi-media player based on Phonon programmed in Qt4.
